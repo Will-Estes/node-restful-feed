@@ -10,3 +10,4 @@ You'll need to create an .env file at the base directory that contains the follo
     JWT_SECRET - The secret to be used for json web tokens for your app <br />
     
 To run the app, run `npm start` from the base directory
+
